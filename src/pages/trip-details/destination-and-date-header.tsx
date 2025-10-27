@@ -17,7 +17,7 @@ export function DestinationAndDataHeader() {
 
                     <div className="w-px h-6 bg-zinc-500"></div>
 
-                    <Button onClick={() => alert("ola mundo")}>
+                    <Button variant="secondary">
                         Alterar Local e Data
                         <Settings2 className='size-5 ' />
                     </Button>
