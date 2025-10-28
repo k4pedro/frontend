@@ -29,7 +29,6 @@ export function TripDetailsPage() {
                         </button>
                     </div>
                     <Activities
-                        openCreateActivityModal={openCreateActivityModal}
                     />
                 </div>
 

@@ -3,3 +3,17 @@
 *{
     min-width: 0;
 }
+
+input{
+    color-scheme: dark;
+}
+
+:root {
+    --rpd-accent-color: #BEF264;
+    --rpd-background-color: BEF264;
+}
+
+[data-theme="dark"] .rdp, .dark, .rdp {
+    --rpd-accent-color: #BEF264;
+    --rpd-background-color: #1A1A1A;
+}
